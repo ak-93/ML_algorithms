@@ -1,0 +1,77 @@
+Sources:
+
+1. Gradient descend:
+http://www.bogotobogo.com/python/python_numpy_batch_gradient_descent_algorithm.php
+http://stackoverflow.com/questions/17784587/gradient-descent-using-python-and-numpy
+
+2. Linear regression
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F
+https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7
+http://www.machinelearning.ru/wiki/index.php?title=%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_(%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80)
+http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html
+
+3. Logistic regression
+https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F
+https://www.quora.com/What-exactly-is-a-logistic-regression-algorithm-in-machine-learning-What-are-its-applications
+http://aimotion.blogspot.com/2011/11/machine-learning-with-python-logistic.html
+
+4. Maximum likelihood estimation
+University course “Data analisys in HEP”
+https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+http://www.physi.uni-heidelberg.de/~menzemer/Stat0708/statistik_vorlesung_7.pdf
+
+5. Generalized linear models
+https://en.wikipedia.org/wiki/Generalized_linear_model
+http://statistica.ru/local-portals/actuaries/obobshchennye-lineynye-modeli-glm/
+http://statsoft.ru/home/textbook/modules/stgenerlinmod.html
+
+6. Naive Bayes Classifier
+http://datareview.info/article/6-prostyih-shagov-dlya-osvoeniya-naivnogo-bayesovskogo-algoritma-s-primerom-koda-na-python/
+Data Science from Scratch, First Principles with Python; Joel Grus, p. 165-168
+7. Gaussian Discriminant Analysis
+http://stats.stackexchange.com/questions/80507/what-is-a-gaussian-discriminant-analysis-gda
+http://statsoft.ru/home/textbook/modules/stdiscan.html
+http://cs229.stanford.edu/notes/cs229-notes2.pdf
+
+8. Regularization
+https://habrahabr.ru/company/mlclass/blog/247751/
+https://msdn.microsoft.com/ru-ru/magazine/dn904675.aspx
+http://www.robots.ox.ac.uk/~az/lectures/ml/
+
+9. SVM. Kernels
+https://uk.wikipedia.org/wiki/%D0%AF%D0%B4%D1%80%D0%BE%D0%B2%D1%96_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8
+https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BE%D0%BF%D0%BE%D1%80%D0%BD%D0%B8%D1%85_%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%96%D0%B2
+https://www.coursera.org/learn/machine-learning/lecture/sHfVT/optimization-objective
+http://www.robots.ox.ac.uk/~az/lectures/ml/
+https://www.quora.com/Why-is-Support-vector-Machine-hard-to-code-from-scratch-where-Logistic-Regression-is-not
+http://stackoverflow.com/questions/38581242/gradient-of-a-loss-function-for-an-svm
+http://stackoverflow.com/questions/40070505/gradient-descent-on-hinge-loss-svm-python-implmentation
+https://en.wikipedia.org/wiki/Hinge_loss
+http://stats.stackexchange.com/questions/4608/gradient-of-hinge-loss
+http://stats.stackexchange.com/questions/215524/is-gradient-descent-possible-for-kernelized-svms-if-so-why-do-people-use-quadr
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/lecture/EQzGo/mietod-opornykh-viektorov-obobshchieniie-dlia-nielinieinogho-sluchaia
+http://statistica.ru/branches-maths/metod-opornykh-vektorov-supported-vector-machine-svm/
+
+10. Neural Networks 
+https://www.coursera.org/learn/machine-learning/home/week/5
+http://neuralnetworksanddeeplearning.com/chap2.html
+http://stackoverflow.com/questions/3775032/how-to-update-the-bias-in-neural-network-backpropagation
+https://theclevermachine.wordpress.com/2014/09/06/derivation-error-backpropagation-gradient-descent-for-neural-networks/
+https://habrahabr.ru/post/258611/
+
+11. K-mean
+https://ru.wikipedia.org/wiki/K-means
+Data Science from Scratch, First Principles with Python; Joel Grus, p. 151-156
+https://habrahabr.ru/post/67078/
+https://www.coursera.org/learn/machine-learning/lecture/93VPG/k-means-algorithm
+
+12. PCA
+https://habrahabr.ru/post/304214/
+https://habrahabr.ru/post/275273/
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82
+https://en.wikipedia.org/wiki/Principal_component_analysis
+
+13. ICA
+http://stats.stackexchange.com/questions/183890/why-are-we-using-ica
+https://en.wikipedia.org/wiki/Independent_component_analysis
+http://cs229.stanford.edu/notes/cs229-notes11.pdf
